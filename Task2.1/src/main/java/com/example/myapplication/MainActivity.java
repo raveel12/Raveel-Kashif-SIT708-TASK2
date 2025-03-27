@@ -107,6 +107,10 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(this,"Please enter a numeric value",Toast.LENGTH_SHORT).show();
             return;
         }
+         if (source_unit.equals(destination_unit)){
+            Toast.makeText(this,"source and destination unit are same",Toast.LENGTH_SHORT).show();
+            return;
+        }
 
         try {
             value= Double.parseDouble(input_value);
