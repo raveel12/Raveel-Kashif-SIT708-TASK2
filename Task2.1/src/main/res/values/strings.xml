@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="click_me_button">Button</string>
+    <string name="click_me">click me</string>
+    <string name="select_destination_unit">Select Destination unit</string>
+    <string name="select_source_unit">Select Source unit</string>
+    <string name="unit_conversion">Unit Conversion</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="result_">Result</string>
+    <string name="submit_">submit</string>
+    <string name="enterValue_">Enter Value</string>
+    <string name="enter_value1">Enter value</string>
+</resources>
